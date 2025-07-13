@@ -130,6 +130,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 🙋‍♂️ Author
+
+Kardam Singhal  
+🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
+📫 Email: kardamsinghalllll@gmail.com
+
+---
+
 ## 🙌 Acknowledgements
 
 * Inspired by real-world marketing datasets and use cases.
